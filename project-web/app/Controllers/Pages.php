@@ -23,4 +23,4 @@ class Pages extends BaseController
     echo view('footer', $data);
     }
 }
-
+?>
